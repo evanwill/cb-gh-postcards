@@ -1,3 +1,7 @@
+# cb-gh-postcards
+
+out of date demo of simple method to add multiple images to item pages.
+
 # collectionbuilder-gh
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
